@@ -46,6 +46,9 @@ This project is particularly meaningful as it allows me to bring to life a chara
 | **18650 Batteries**         | Positive        | Step Down **IN+**           |
 |                             | Negative        | Step Down **IN-**           |
 
+
+
+
 </details>
 
 <details>
