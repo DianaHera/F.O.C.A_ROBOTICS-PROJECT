@@ -1,4 +1,11 @@
+**Detailed Hardware Functionality Description**
 
+The robot is designed to combine motion, arm articulation, and communication capabilities while being controlled remotely via Bluetooth. Below is a comprehensive breakdown of the hardware components, connections, communication interfaces, and relevant specifications.
+
+
+
+
+**2.Hardware Interconnections**
 | **Component**               | **Pin**         | **ESP32 Pin / Other**       |
 |-----------------------------|-----------------|-----------------------------|
 | **LED Matrix Module**       | VCC             | 5V                          |
