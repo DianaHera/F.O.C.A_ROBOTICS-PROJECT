@@ -48,7 +48,7 @@ This project is particularly meaningful as it allows me to bring to life a chara
 
 
 
-
+[hardware](https://github.com/DianaHera/F.O.C.A_ROBOTICS-PROJECT/tree/main/hardware)
 </details>
 
 <details>
