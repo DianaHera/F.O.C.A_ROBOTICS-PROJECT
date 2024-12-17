@@ -34,7 +34,7 @@ The robot is designed to combine motion, arm articulation, and communication cap
    - Robots communicate wirelessly using the ESP32’s Bluetooth module.
    - Message exchange follows a custom communication protocol, allowing one robot to send commands or status updates to the other.
   
-**<h2>2.Hardware Interconnections</h2>**
+**<h2>2. Hardware Interconnections</h2>**
 | **Component**               | **Pin**         | **ESP32 Pin / Other**       |
 |-----------------------------|-----------------|-----------------------------|
 | **LED Matrix Module**       | VCC             | 5V                          |
@@ -64,7 +64,7 @@ The robot is designed to combine motion, arm articulation, and communication cap
    - LCD Display: Displays received operational status.
 
 
- **<h2>3.Bill of Components</h2>**
+ **<h2>3. Bill of Components</h2>**
  
 
 | Quantity | Material                                   | Link to shop  										                                                                         | Datasheet     |
@@ -78,3 +78,14 @@ The robot is designed to combine motion, arm articulation, and communication cap
 |    2     | LI-ION Well 18650 battery (3.7V, 2200 mAh) | [SHOP LINK](https://www.dedeman.ro/ro/acumulator-li-ion-well-18650-3-7v-2200-mah/p/1050265)  										 |       X       |
 |    1     | PCB board                                  | [SHOP LINK](https://www.sigmanortec.ro/Placa-PCB-prototipare-fata-dubla-7x9cm-p125747328)               								 |       X       |
 |    1     | LCD Display I2C                            | [SHOP LINK](https://www.optimusdigital.ro/ro/optoelectronice-lcd-uri/2894-lcd-cu-interfata-i2c-si-backlight-albastru.html?search_query=lcd+i2c&results=17) | [DATASHEET](https://www.makershop.de/download/I2C-LCD-interface.pdf)
+
+
+**<h2>4. Block Diagram</h2>**
+
+![Captură de ecran 2024-12-18 000626](https://github.com/user-attachments/assets/1a4dcbb4-9ef2-4ca0-85c4-f22e0f116d7d)
+
+
+**<h2>5. Circuit Diagram</h2>**
+
+![Captură de ecran 2024-12-18 000357](https://github.com/user-attachments/assets/14eeb0a4-47ae-4c8a-b9b2-56eed42f306f)
+
